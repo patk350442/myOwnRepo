@@ -1,0 +1,8 @@
+23:20:13.976 [main] INFO  resources.base - initialized driver...
+23:20:13.982 [main] INFO  resources.base - Ending beforeTest for HomePageTest..
+23:21:02.704 [main] INFO  resources.base - Opening url
+23:21:21.467 [main] INFO  resources.base - Navigated to URL
+23:21:22.161 [main] INFO  resources.base - Restricted user
+23:21:22.314 [main] DEBUG resources.base - successfully validated last step in homePageLogin test
+23:21:22.315 [main] INFO  resources.base - Opening url
+23:21:37.119 [main] INFO  resources.base - Navigated to URL
